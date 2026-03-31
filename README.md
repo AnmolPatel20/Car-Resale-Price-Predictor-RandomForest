@@ -1,6 +1,6 @@
 # 🚗 Pre-Owned Vehicle Price Estimation
 
-![Car Price GIF](CarPriceProject.gif)
+![Car Price GIF](images/CarPriceProject.gif)
 
 > Predict the resale price of a used car based on its features — helping sellers make smarter pricing decisions based on real market data.
 
