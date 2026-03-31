@@ -35,14 +35,12 @@ With thousands of used cars listed on platforms like **CarDekho**, it's hard for
 
 ## 📊 Exploratory Data Analysis
 
-### Selling Price Distribution
-![Selling Price Distribution](images/selling_price_distribution.png)
+<p align="center">
+  <img src="images/selling_price_distribution.png" width="45%" />
+  <img src="images/correlation_heatmap.png" width="38%" />
+</p>
 
 Most cars are priced between ₹2–15 lakhs, with the distribution heavily right-skewed indicating a few high-end luxury cars in the dataset.
-
-### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 `max_power` (0.75) and `engine` (0.59) are the strongest predictors of selling price. `vehicle_age` and `km_driven` show a negative correlation as expected.
 
 ---
